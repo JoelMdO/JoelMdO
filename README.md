@@ -6,9 +6,10 @@
 
 
 ### 🪶
-<p align="center">One creature is required to start ***< CREATIVITY >***, </p>
-<p align="center">One user is required to perform an ***< ACTIVITY >*** , </p>
-> 
+<p align="center">
+<b>One creature is required to start ***< CREATIVITY >***,</b><br>
+> One user is required to perform an ***< ACTIVITY >*** , </p>
+
 <p align="center">***Allow me to be part, lets join and expand our imagination, and we will improve everyone's daily activities!!!***</p> 
 
 >***Let me contribute with you*** 🤝>centered ***
