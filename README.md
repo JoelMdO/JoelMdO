@@ -14,10 +14,13 @@
 > - One creature is required to start **< CREATIVITY >**, </p>
 > - One user is required to perform an **< ACTIVITY >** , </p>
 > 
-<p style="text-align: center;">"***Allow me to be part, lets join and expand our imagination, and we will improve everyone's daily activities!!!">centered ***</p> 
+<p style="text-align: center;">***Allow me to be part, lets join and expand our imagination, and we will improve everyone's daily activities!!!">centered ***</p> 
 
-> - <p align= ***Let me contribute with you*** 🤝>centered ***</p> 
+>***Let me contribute with you*** 🤝>centered ***
 
 
 - 🔭 I’m currently working on ... my first Flutter App.
 - 📫 How to reach me: joel.montesdeoca@gmail.com
+
+  
+  
