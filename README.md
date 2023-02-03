@@ -7,13 +7,13 @@
 
 ### 🪶
 <p align="center">
-<b>One creature is required to start < CREATIVITY > ,</b><br>
-<b>One user is required to perform an < ACTIVITY > , </b><br>
+<b>One Creature is required to start < CREATIVITY > ,</b><br>
+<b>One User is required to perform an < ACTIVITY > , </b><br>
 </p>
 
-<p align="center">***Allow me to be part, lets join and expand our imagination, and we will improve everyone's daily activities!!!***</p> 
+<p align="center">Let's be the together the Creature and the User to expand our imagination, and improve everyone's daily activities!!!</p> 
 
-<p align="center">***Let me contribute with you*** 🤝
+<p align="center">***Allow me to contribute with you*** 🤝
 </b><br><p/>
 
 - 🔭 I’m currently working on ... my first Flutter App.
