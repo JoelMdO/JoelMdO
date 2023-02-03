@@ -1,3 +1,5 @@
+code-editor-gutter-color: ‘#000000’
+
 <p align="center">
 <img width="700" src="https://user-images.githubusercontent.com/122069243/216305267-660be15c-cce5-4c64-9b15-838a51bf8fae.gif">
 </p>
