@@ -1,12 +1,12 @@
 >
 
 <p align="center">
-<img width="800" src="https://user-images.githubusercontent.com/122069243/216305267-660be15c-cce5-4c64-9b15-838a51bf8fae.gif">
+<img width="700" src="https://user-images.githubusercontent.com/122069243/216305267-660be15c-cce5-4c64-9b15-838a51bf8fae.gif">
 </p>
 
 
 ### 🪶
-<p align="center">
+<p align="center"><span style="color:white">some <em>white</em> text</span>
 <b>One Creature is required to start < CREATIVITY > ,</b><br>
 <b>One User is required to perform an < ACTIVITY > , </b><br>
 </p>
