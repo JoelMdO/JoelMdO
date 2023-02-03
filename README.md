@@ -1,6 +1,4 @@
-<state>
- body{ 
- background-color: #DBF9FC;
+style="background-color:#33475b"
 
 <p align="center">
 <img width="700" src="https://user-images.githubusercontent.com/122069243/216305267-660be15c-cce5-4c64-9b15-838a51bf8fae.gif">
@@ -20,5 +18,4 @@
 
 - 🔭 I’m currently working on ... my first Flutter App.
 - 📫 How to reach me: joel.montesdeoca@gmail.com
-}
-<state>  
+
