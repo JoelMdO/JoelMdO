@@ -1,5 +1,5 @@
 <p align="center">
-<img width="750" src="https://user-images.githubusercontent.com/122069243/216305267-660be15c-cce5-4c64-9b15-838a51bf8fae.gif">
+<img width="750" src="[https://user-images.githubusercontent.com/122069243/216305267-660be15c-cce5-4c64-9b15-838a51bf8fae.gif](https://github.com/JoelMdO/JoelMdO/assets/122069243/10ee53ca-bbe3-4a98-a161-c6ac483f3ab4)">
 </p>
 
 <p align="center">
@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">Let's be the together the Creature and the User to expand our imagination, and improve everyone's daily activities!!!</p> 
+
 
 <p align="center">Allow me to contribute with you 🤝
 </b><br><p/>
