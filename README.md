@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<b>🪶 One Creature is required to spark < CREATIVITY > 🪶</b><br>
-<b>🪶 One User is required to perform an < ACTIVITY > 🪶 </b><br>
+<b>🪶 One person's <CREATIVE> vision, combined with 🪶</b><br>
+<b>🪶 another's initiative, can lead to groundbreaking < RESULTS > 🪶 </b><br>
 </p>
 
-<p align="center">Let's expand our imagination, and improve everyone's daily activities!!!</p> 
+<p align="center">Let's expand our imagination, and improve everyone's daily lives!!!</p> 
 
 
 <p align="center">Allow me to collaborate with you 🤝
