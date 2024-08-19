@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<b>🪶 One person's <CREATIVE> vision, combined with 🪶</b><br>
+<b>🪶 One person's < CREATIVE > vision, combined with 🪶</b><br>
 <b>🪶 another's initiative, can lead to groundbreaking < RESULTS > 🪶 </b><br>
 </p>
 
