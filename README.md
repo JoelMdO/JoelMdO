@@ -13,7 +13,11 @@
 <p align="center">Allow me to collaborate with you 🤝
 </b><br><p/>
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelMdO&bg_color=black)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelMdO&bg_color=2f4f4f&title_color=fff&text_color=ccc" alt="Top Langs" />
+  </a>
+</p>
 
 - 📫 How to reach me: joelmontesdeoca@proton.me
 
